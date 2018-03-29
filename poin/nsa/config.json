@@ -1,7 +1,6 @@
-
 {
-license: {
-  active: true,
-  code: ""
+"license": {
+  "active": true,
+  "message": "Aplikasi sudah tidak dalam pengembangan"
   }
 }
