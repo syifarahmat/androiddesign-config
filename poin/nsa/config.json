@@ -1,6 +1,8 @@
 {
+"success": true,
+"message": "Aplikasi sudah tidak dalam pengembangan, silahkan menghubungi IT yang bersangkutan"
+  
 "license": {
-  "active": false,
-  "message": "Aplikasi sudah tidak dalam pengembangan, silahkan menghubungi IT yang bersangkutan"
+  "active": false
   }
 }
