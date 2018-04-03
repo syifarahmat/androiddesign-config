@@ -1,7 +1,7 @@
 {
 	"success": true,
-	"message": "Aplikasi sudah tidak dalam pengembangan, silahkan menghubungi IT yang bersangkutan",
+	"message": "Aplikasi nusa.poin sudah tidak dalam pengembangan, silahkan menghubungi IT yang bersangkutan",
 	"license": {
-		"active": false
+		"active": true
 	}
 }
