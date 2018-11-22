@@ -8,6 +8,9 @@
       "readTimeout": 10,
       "writeTimeout": 30
     },
+    "Location": {
+      "radiusTimeout": 20
+    },
     "QRBarCode": {
       "frontCamera": false,
       "vibrate": true
