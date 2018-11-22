@@ -1,0 +1,21 @@
+{
+	"success": true,
+	"message": "Get default config from server success",
+	"config": {
+		"server": {
+      "url": "http://192.168.15.145:8000/",
+      "connectTimeout": 5,
+      "readTimeout": 10,
+      "writeTimeout": 30
+    },
+    "qrbarcode": {
+      "frontCamera": false,
+      "vibrate": true
+    },
+    "facialrecognition": {
+      "frontCamera": false,
+      "performanceSize": false,
+      "vibrate": true
+    }
+	}
+}
