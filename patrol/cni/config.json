@@ -9,7 +9,8 @@
       "writeTimeout": 30
     },
     "Location": {
-      "radiusOut": 20
+      "radiusOut": 20,
+      "loopTry": 10
     },
     "QRBarCode": {
       "frontCamera": false,
