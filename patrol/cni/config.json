@@ -8,11 +8,11 @@
       "readTimeout": 10,
       "writeTimeout": 30
     },
-    "qrbarcode": {
+    "QRBarCode": {
       "frontCamera": false,
       "vibrate": true
     },
-    "facialrecognition": {
+    "FacialRecognition": {
       "frontCamera": false,
       "performanceSize": false,
       "vibrate": true
