@@ -1,8 +1,8 @@
 {
-	"success": true,
-	"message": "Get default config from server success",
-	"config": {
-		"server": {
+  "success": true,
+  "message": "Get default config from server success",
+  "config": {
+    "server": {
       "url": "http://192.168.15.145:8000/",
       "connectTimeout": 5,
       "readTimeout": 10,
@@ -17,5 +17,5 @@
       "performanceSize": false,
       "vibrate": true
     }
-	}
+  }
 }
