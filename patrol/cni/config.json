@@ -2,6 +2,7 @@
   "success": true,
   "message": "Get default config from server success",
   "config": {
+    "branch": "MJKCNI",
     "server": {
       "url": "http://192.168.15.150:8000/",
       "connectTimeout": 5,
