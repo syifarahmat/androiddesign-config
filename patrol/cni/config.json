@@ -3,23 +3,27 @@
   "message": "Get default config from server success",
   "config": {
     "server": {
-      "url": "http://192.168.15.145:8000/",
+      "url": "http://192.168.15.150:8000/",
       "connectTimeout": 5,
       "readTimeout": 10,
       "writeTimeout": 30
     },
-    "Location": {
+    "location": {
       "radiusOut": 20,
       "loopTry": 10
     },
-    "QRBarCode": {
+    "qRBarCode": {
       "frontCamera": false,
       "vibrate": true
     },
-    "FacialRecognition": {
+    "facialRecognition": {
       "frontCamera": false,
       "performanceSize": false,
       "vibrate": true
+    },
+    "taskSchedule": {
+      "timePeriod": 30,
+      "dateBetween": 10
     }
   }
 }
