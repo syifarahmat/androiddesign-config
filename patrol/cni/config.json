@@ -4,7 +4,7 @@
   "config": {
     "branch": "MJKCNI",
     "server": {
-      "url": "http://192.168.15.150:8080/",
+      "url": "http://192.168.16.109:8080/",
       "connectTimeout": 5,
       "readTimeout": 10,
       "writeTimeout": 30
