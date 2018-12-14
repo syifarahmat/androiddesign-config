@@ -28,7 +28,8 @@
     },
     "interceptor": {
       "enabled": true,
-      "notified": true
+      "notified": true,
+      "packet": true
     }
   }
 }
