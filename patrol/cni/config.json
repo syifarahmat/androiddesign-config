@@ -25,6 +25,10 @@
     "taskSchedule": {
       "timePeriod": 30,
       "dateBetween": 10
+    },
+    "interceptor": {
+      "enabled": true,
+      "notified": true
     }
   }
 }
