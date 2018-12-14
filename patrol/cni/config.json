@@ -11,7 +11,8 @@
     },
     "location": {
       "radiusOut": 20,
-      "loopTry": 10
+      "loopTry": 10,
+      "allowTimeOut": false
     },
     "qRBarCode": {
       "frontCamera": false,
