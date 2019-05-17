@@ -7,7 +7,7 @@
     "deviceName": "",
     "password": "002735da79fbd67ee22f0bf3c08b4ef4",
     "server": {
-      "url": "http://192.168.16.4:8080/",
+      "url": "http://192.168.0.107:8080/",
       "connectTimeout": 5,
       "readTimeout": 10,
       "writeTimeout": 30
