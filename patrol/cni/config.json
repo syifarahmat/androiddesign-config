@@ -2,12 +2,12 @@
   "success": true,
   "message": "Get default config from server success",
   "config": {
-    "branch": "MJKCNI",
+    "branch": "AR",
     "deviceID": "",
     "deviceName": "",
-    "password": "7b7bc2512ee1fedcd76bdc68926d4f7b",
+    "password": "002735da79fbd67ee22f0bf3c08b4ef4",
     "server": {
-      "url": "http://192.168.15.61:8080/",
+      "url": "http://192.168.16.4:8080/",
       "connectTimeout": 5,
       "readTimeout": 10,
       "writeTimeout": 30
@@ -16,7 +16,7 @@
       "radiusOut": 20,
       "loopTry": 10,
       "allowRadiusOut": false,
-      "allowTimeOut": false
+      "allowTimeOut": true
     },
     "qRBarCode": {
       "frontCamera": false,
