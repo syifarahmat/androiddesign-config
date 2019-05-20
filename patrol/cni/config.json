@@ -16,7 +16,7 @@
       "radiusOut": 20,
       "loopTry": 10,
       "allowRadiusOut": false,
-      "allowTimeOut": false
+      "allowTimeOut": true
     },
     "qRBarCode": {
       "frontCamera": false,
