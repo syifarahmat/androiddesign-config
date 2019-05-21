@@ -15,7 +15,7 @@
     "location": {
       "radiusOut": 20,
       "loopTry": 10,
-      "allowRadiusOut": false,
+      "allowRadiusOut": true,
       "allowTimeOut": false
     },
     "qRBarCode": {
