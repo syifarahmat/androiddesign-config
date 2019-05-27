@@ -34,7 +34,8 @@
     "interceptor": {
       "enabled": true,
       "notified": true,
-      "packet": true
+      "packet": true,
+      "wifiOnly": true
     }
   }
 }
