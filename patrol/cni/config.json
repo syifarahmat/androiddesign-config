@@ -13,7 +13,7 @@
       "writeTimeout": 480
     },
     "location": {
-      "radiusOut": 20,
+      "radiusOut": 2,
       "loopTry": 10,
       "allowRadiusOut": true,
       "allowTimeOut": false
