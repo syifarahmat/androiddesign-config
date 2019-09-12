@@ -10,8 +10,8 @@
     "server": {
       "url": "http://192.168.16.4:8080/",
       "connectTimeout": 5,
-      "readTimeout": 900,
-      "writeTimeout": 900
+      "readTimeout": 480,
+      "writeTimeout": 480
     },
     "location": {
       "radiusOut": 2,
