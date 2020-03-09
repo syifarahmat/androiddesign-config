@@ -5,10 +5,10 @@
     "branch": "AR",
     "deviceID": "",
     "deviceName": "",
-    "password": "002735da79fbd67ee22f0bf3c08b4ef4",
+    "password": "4d82fcb0a405b2f002606fb3b89c4a53",
     "debugDesktop": true,
     "server": {
-      "url": "http://192.168.16.4:8080/",
+      "url": "http://rest.api.patrol:9999/",
       "connectTimeout": 5,
       "readTimeout": 900,
       "writeTimeout": 900
@@ -29,7 +29,7 @@
       "vibrate": true
     },
     "taskSchedule": {
-      "timePeriod": 30,
+      "timePeriod": 90,
       "dateBetween": 10
     },
     "interceptor": {
